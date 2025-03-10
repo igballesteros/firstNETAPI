@@ -1,6 +1,0 @@
-bin/
-.vscode/
-*.dll
-*.exe
-*.cache
-*.log
