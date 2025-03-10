@@ -1,0 +1,6 @@
+@firstNETAPI_HostAddress = http://localhost:5150
+
+GET {{firstNETAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
